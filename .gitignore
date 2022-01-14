@@ -2,3 +2,6 @@
 /.idea/
 *.iml
 /out/
+*.class
+hs_err_pid3576.log
+
